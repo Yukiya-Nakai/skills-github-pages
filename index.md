@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Test, test test test
 ---
-<h1> Hello, World! </h1>
+<h1> これはテストです。 </h1>
