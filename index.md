@@ -1,4 +1,4 @@
 ---
-title: Test, test test test
+TEST PAGE: Test, test test test
 ---
 <h1> これはテストです。 </h1>
